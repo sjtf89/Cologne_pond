@@ -1,0 +1,110 @@
+go	ontology	name	genes	transcripts	proteins	total
+GO:0009535	cellular_component	chloroplast thylakoid membrane	5	5	5	5
+GO:0005829	cellular_component	cytosol	4	4	4	4
+GO:0005886	cellular_component	plasma membrane	3	4	4	4
+GO:0005509	molecular_function	calcium ion binding	3	3	3	3
+GO:0009507	cellular_component	chloroplast	3	3	3	3
+GO:0016021	cellular_component	integral component of membrane	2	3	3	3
+GO:0016020	cellular_component	membrane	2	3	3	3
+GO:0015986	biological_process	ATP synthesis coupled proton transport	2	2	2	2
+GO:0005737	cellular_component	cytoplasm	2	2	2	2
+GO:0009055	molecular_function	electron transfer activity	2	2	2	2
+GO:0005525	molecular_function	GTP binding	2	2	2	2
+GO:0003924	molecular_function	GTPase activity	2	2	2	2
+GO:0005759	cellular_component	mitochondrial matrix	2	2	2	2
+GO:0005739	cellular_component	mitochondrion	2	2	2	2
+GO:0016491	molecular_function	oxidoreductase activity	2	2	2	2
+GO:0015979	biological_process	photosynthesis	2	2	2	2
+GO:0009765	biological_process	photosynthesis, light harvesting	2	2	2	2
+GO:0009522	cellular_component	photosystem I	2	2	2	2
+GO:0009506	cellular_component	plasmodesma	2	2	2	2
+GO:0046933	molecular_function	proton-transporting ATP synthase activity, rotational mechanism	2	2	2	2
+GO:0045261	cellular_component	proton-transporting ATP synthase complex, catalytic core F(1)	2	2	2	2
+GO:0009735	biological_process	response to cytokinin	2	2	2	2
+GO:0003746	molecular_function	translation elongation factor activity	2	2	2	2
+GO:0098609	biological_process	cell-cell adhesion	1	2	2	2
+GO:0008201	molecular_function	heparin binding	1	2	2	2
+GO:0003857	molecular_function	3-hydroxyacyl-CoA dehydrogenase activity	1	1	1	1
+GO:0051539	molecular_function	4 iron, 4 sulfur cluster binding	1	1	1	1
+GO:0006084	biological_process	acetyl-CoA metabolic process	1	1	1	1
+GO:0072488	biological_process	ammonium transmembrane transport	1	1	1	1
+GO:0008519	molecular_function	ammonium transmembrane transporter activity	1	1	1	1
+GO:0015696	biological_process	ammonium transport	1	1	1	1
+GO:0050444	molecular_function	aquacobalamin reductase (NADPH) activity	1	1	1	1
+GO:0005524	molecular_function	ATP binding	1	1	1	1
+GO:0030246	molecular_function	carbohydrate binding	1	1	1	1
+GO:0072358	biological_process	cardiovascular system development	1	1	1	1
+GO:0030154	biological_process	cell differentiation	1	1	1	1
+GO:0045454	biological_process	cell redox homeostasis	1	1	1	1
+GO:0007160	biological_process	cell-matrix adhesion	1	1	1	1
+GO:0045333	biological_process	cellular respiration	1	1	1	1
+GO:0009941	cellular_component	chloroplast envelope	1	1	1	1
+GO:0031969	cellular_component	chloroplast membrane	1	1	1	1
+GO:0009570	cellular_component	chloroplast stroma	1	1	1	1
+GO:0005929	cellular_component	cilium	1	1	1	1
+GO:0000331	cellular_component	contractile vacuole	1	1	1	1
+GO:0005507	molecular_function	copper ion binding	1	1	1	1
+GO:0022625	cellular_component	cytosolic large ribosomal subunit	1	1	1	1
+GO:0022626	cellular_component	cytosolic ribosome	1	1	1	1
+GO:0042742	biological_process	defense response to bacterium	1	1	1	1
+GO:0022900	biological_process	electron transport chain	1	1	1	1
+GO:0005788	cellular_component	endoplasmic reticulum lumen	1	1	1	1
+GO:0031012	cellular_component	extracellular matrix	1	1	1	1
+GO:0005576	cellular_component	extracellular region	1	1	1	1
+GO:0019898	cellular_component	extrinsic component of membrane	1	1	1	1
+GO:0010142	biological_process	farnesyl diphosphate biosynthetic process, mevalonate pathway	1	1	1	1
+GO:0006635	biological_process	fatty acid beta-oxidation	1	1	1	1
+GO:0033539	biological_process	fatty acid beta-oxidation using acyl-CoA dehydrogenase	1	1	1	1
+GO:0004324	molecular_function	ferredoxin-NADP+ reductase activity	1	1	1	1
+GO:0050660	molecular_function	flavin adenine dinucleotide binding	1	1	1	1
+GO:0010181	molecular_function	FMN binding	1	1	1	1
+GO:0006000	biological_process	fructose metabolic process	1	1	1	1
+GO:0004332	molecular_function	fructose-bisphosphate aldolase activity	1	1	1	1
+GO:0006096	biological_process	glycolytic process	1	1	1	1
+GO:0004421	molecular_function	hydroxymethylglutaryl-CoA synthase activity	1	1	1	1
+GO:0005887	cellular_component	integral component of plasma membrane	1	1	1	1
+GO:0005506	molecular_function	iron ion binding	1	1	1	1
+GO:0019287	biological_process	isopentenyl diphosphate biosynthetic process, mevalonate pathway	1	1	1	1
+GO:0080181	biological_process	lateral root branching	1	1	1	1
+GO:0010311	biological_process	lateral root formation	1	1	1	1
+GO:0005874	cellular_component	microtubule	1	1	1	1
+GO:0003729	molecular_function	mRNA binding	1	1	1	1
+GO:0070403	molecular_function	NAD+ binding	1	1	1	1
+GO:0046676	biological_process	negative regulation of insulin secretion	1	1	1	1
+GO:0031397	biological_process	negative regulation of protein ubiquitination	1	1	1	1
+GO:0030178	biological_process	negative regulation of Wnt signaling pathway	1	1	1	1
+GO:0005730	cellular_component	nucleolus	1	1	1	1
+GO:0005654	cellular_component	nucleoplasm	1	1	1	1
+GO:0005634	cellular_component	nucleus	1	1	1	1
+GO:0045335	cellular_component	phagocytic vesicle	1	1	1	1
+GO:0009773	biological_process	photosynthetic electron transport in photosystem I	1	1	1	1
+GO:0009772	biological_process	photosynthetic electron transport in photosystem II	1	1	1	1
+GO:0009654	cellular_component	photosystem II oxygen evolving complex	1	1	1	1
+GO:0010287	cellular_component	plastoglobule	1	1	1	1
+GO:0042788	cellular_component	polysomal ribosome	1	1	1	1
+GO:0120162	biological_process	positive regulation of cold-induced thermogenesis	1	1	1	1
+GO:0006457	biological_process	protein folding	1	1	1	1
+GO:0018095	biological_process	protein polyglutamylation	1	1	1	1
+GO:0047134	molecular_function	protein-disulfide reductase activity	1	1	1	1
+GO:0050243	molecular_function	pyruvate dehydrogenase (NADP+) activity	1	1	1	1
+GO:0006090	biological_process	pyruvate metabolic process	1	1	1	1
+GO:0042548	biological_process	regulation of photosynthesis, light reaction	1	1	1	1
+GO:0014823	biological_process	response to activity	1	1	1	1
+GO:0009409	biological_process	response to cold	1	1	1	1
+GO:0042493	biological_process	response to drug	1	1	1	1
+GO:0009725	biological_process	response to hormone	1	1	1	1
+GO:0032868	biological_process	response to insulin	1	1	1	1
+GO:0005840	cellular_component	ribosome	1	1	1	1
+GO:0042254	biological_process	ribosome biogenesis	1	1	1	1
+GO:0016126	biological_process	sterol biosynthetic process	1	1	1	1
+GO:0010319	cellular_component	stromule	1	1	1	1
+GO:0003735	molecular_function	structural constituent of ribosome	1	1	1	1
+GO:0030976	molecular_function	thiamine pyrophosphate binding	1	1	1	1
+GO:0004791	molecular_function	thioredoxin-disulfide reductase activity	1	1	1	1
+GO:0042651	cellular_component	thylakoid membrane	1	1	1	1
+GO:0006412	biological_process	translation	1	1	1	1
+GO:0070740	molecular_function	tubulin-glutamic acid ligase activity	1	1	1	1
+GO:0051082	molecular_function	unfolded protein binding	1	1	1	1
+GO:0005774	cellular_component	vacuolar membrane	1	1	1	1
+GO:0005773	cellular_component	vacuole	1	1	1	1
+GO:0016055	biological_process	Wnt signaling pathway	1	1	1	1

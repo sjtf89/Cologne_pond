@@ -1,0 +1,28 @@
+sample_id;annotation;domain;phylum;condition;logFC;logCPM;PValue;FDR
+TRINITY_DN487028_c0_g2_i1;Fructose-bisphosphate aldolase;Eukaryota;Amoebozoa;light;13.80109248;5.355188742;7.51E-10;0.000564137
+TRINITY_DN94770_c0_g2_i1;Oxygen-evolving enhancer protein;Eukaryota;Streptophyta;light;13.29722975;4.852640081;2.37E-09;0.000564137
+TRINITY_DN518930_c0_g1_i5;Reticulocyte-binding protein 2 homolog;Eukaryota;Apicomplexa;light;13.16074399;4.716596771;3.35E-09;0.000564137
+TRINITY_DN475406_c0_g1_i3;Plastocyanin;Eukaryota;Chlorophyta;light;12.91894181;4.475687443;3.36E-09;0.000564137
+TRINITY_DN526096_c0_g1_i1;ATP synthase delta chain;Eukaryota;Streptophyta;light;12.96873037;4.525278822;4.19E-09;0.000564137
+TRINITY_DN429731_c0_g1_i1;Ferredoxin--NADP reductase;Eukaryota;Chlorophyta;light;13.3167581;4.872110443;5.52E-09;0.000564137
+TRINITY_DN452117_c2_g1_i1;Light-harvesting complex I LH38 proteins;Eukaryota;Euglenophyta;light;12.72124107;4.278833376;5.71E-09;0.000564137
+TRINITY_DN518930_c0_g1_i1;Reticulocyte-binding protein 2 homolog;Eukaryota;Apicomplexa;light;12.73980915;4.297315964;7.99E-09;0.000644628
+TRINITY_DN256033_c0_g2_i1;Photosystem II reaction centre X protein (PsbX);na;na;light;12.64472834;4.202675332;8.14E-09;0.000644628
+TRINITY_DN325083_c0_g1_i1;Elongation factor 1-alpha;Eukaryota;Euglenophyta;light;12.64662869;4.204572494;9.01E-09;0.000654487
+TRINITY_DN593895_c0_g1_i1;Probable electron transfer flavoprotein subunit alpha;Eukaryota;Nematoda;light;12.85868786;4.415678814;1.04E-08;0.000691317
+TRINITY_DN515020_c0_g3_i1;ATP synthase gamma chain;Eukaryota;Bacillariophyta;light;12.82654041;4.383658464;1.27E-08;0.000695554
+TRINITY_DN521909_c8_g1_i1;Nucleoredoxin;Eukaryota;Chordata;light;12.31268447;3.872445539;1.63E-08;0.000708484
+TRINITY_DN476259_c0_g2_i1;Hydroxyacyl-coenzyme A dehydrogenase;Eukaryota;Chordata;light;12.15642892;3.717195553;2.02E-08;0.000708484
+TRINITY_DN525260_c0_g1_i6;Probable alpha-tubulin polyglutamylase Ttll1;Eukaryota;Ciliophora;light;12.02973955;3.591406952;2.15E-08;0.000708484
+TRINITY_DN491968_c0_g2_i2;Sushi, nidogen and EGF-like domain-containing protein 1;Eukaryota;Chordata;light;11.9896352;3.551597423;2.19E-08;0.000708484
+TRINITY_DN24135_c0_g1_i1;UPF0187 protein At2g45870;Eukaryota;Streptophyta;light;12.52808029;4.086623819;2.19E-08;0.000708484
+TRINITY_DN537799_c2_g1_i1;60S ribosomal protein L4-2;Eukaryota;Streptophyta;light;12.10270407;3.663834623;2.63E-08;0.000773535
+TRINITY_DN528964_c1_g1_i1;Calreticulin;Eukaryota;Euglenophyta;light;12.25839205;3.818489965;2.82E-08;0.000773535
+TRINITY_DN273360_c0_g3_i1;60S ribosomal protein L7a;Eukaryota;Chordata;light;12.38457334;3.943896124;3.02E-08;0.000773535
+TRINITY_DN325083_c0_g2_i1;Elongation factor 1-alpha;Eukaryota;Euglenophyta;light;9.491946846;5.999353185;3.50E-08;0.00082474
+TRINITY_DN592714_c0_g1_i1;Probable zinc-ribbon domain;na;na;light;10.89319443;4.185278806;3.63E-08;0.000825755
+TRINITY_DN449934_c0_g1_i1;Ammonium transporter 1 member 3;Eukaryota;Streptophyta;light;12.03976404;3.601353441;3.85E-08;0.000825755
+TRINITY_DN531094_c0_g1_i3;B/C beta carbonyic anhydrases;na;na;light;10.97336211;4.266103905;3.89E-08;0.000825755
+TRINITY_DN517921_c0_g1_i4;Pyruvate dehydrogenase [NADP(+)];Eukaryota;Euglenophyta;light;9.884849416;6.049478464;4.06E-08;0.000825755
+TRINITY_DN530271_c8_g3_i1;Light-harvesting complex I LH38 proteins;Eukaryota;Euglenophyta;light;12.12216066;3.683162543;4.07E-08;0.000825755
+TRINITY_DN520335_c1_g1_i1;Hydroxymethylglutaryl-CoA synthase;Eukaryota;Streptophyta;light;11.69395637;3.258405506;4.84E-08;0.000937114
